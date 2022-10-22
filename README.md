@@ -1,10 +1,9 @@
-# Analise_estatisticas_jogadores_de_futebol
+# Soccer Players Stats Analysis
 
-Implementação de código para análises estatísticas de dados de jogadores de futebol (em C++)
+Code implementation for statistical analysis of football player data (in C++)
 
-Os dados dos jogadores eram obtidos a partir de um arquivo .csv, que era lido e os dados armazenados nos objetos e estruturas de dados pertinentes aos atletas.
-Posteriormente, esses dados lidos eram processados, e estatísticas eram extraídas para a geração de informações sobre os jogadores e a partida.
+Player data was obtained from a .csv file, which was read and the data stored in objects and data structures relevant to athletes. Subsequently, these read data were processed, and statistics were extracted to generate information about the players and the match.
 
-Arquivo principal - main.cpp
+Main file - main.cpp
 
-Trabalho desenvolvido para a disciplina de Programação III (Programação Orientada a Objetos)
+Work developed for the discipline of Programming III (Object Oriented Programming)
